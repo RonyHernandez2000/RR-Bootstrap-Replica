@@ -15,14 +15,14 @@ export default function Mid() {
             </Card.Text>
             <Form>
                 <Form.Group className="mb-3" controlId="exampleForm.ControlInput1">
-                    <Form.Control size="lg" type="text" placeholder="   Enter your address                                         ->" />
+                    <Form.Control size="lg" type="text" placeholder="   Enter your address->" />
                 </Form.Group>
             </Form>
           </div>
         </Card>
       </div>
       <div>
-        <img style={{ height: "428px", width: "20%", position: "absolute", backgroundSize: "contain", backgroundRepeat: "no-repeat" }} src="../../public/background.jpg" alt="Card image" />
+        <img style={{ height: "428px", width: "20%", position: "absolute", backgroundSize: "contain", backgroundRepeat: "no-repeat" }} src='./background.jpg'alt="Card img" />
       </div>
     </div>
   );

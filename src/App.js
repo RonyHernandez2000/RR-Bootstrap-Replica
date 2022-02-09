@@ -1,8 +1,8 @@
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css'
-import TopBar from './components/TopBar';
-import Mid from './components/Mid';
-import Stores from './components/Stores';
+import TopBar from './Component/TopBar';
+import Mid from './Component/Mid';
+import Stores from './Component/Stores';
 
 function App() {
   return (
