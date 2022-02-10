@@ -22,7 +22,7 @@ export default function Mid() {
         </Card>
       </div>
       <div>
-        <img style={{ height: "428px", width: "20%", position: "absolute", backgroundSize: "contain", backgroundRepeat: "no-repeat" }} src='./background.png'alt="Card img" />
+        <img style={{ height: "428px", width: "20%", position: "absolute", backgroundSize: "contain", backgroundRepeat: "no-repeat" }} src='https://www.diabetes365.pt/wp-content/uploads/2020/09/dieta-vegetariana-830x462.jpg'alt="Card img" />
       </div>
     </div>
   );
