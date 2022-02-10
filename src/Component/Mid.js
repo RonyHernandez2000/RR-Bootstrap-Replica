@@ -22,7 +22,7 @@ export default function Mid() {
         </Card>
       </div>
       <div>
-        <img style={{ height: "428px", width: "20%", position: "absolute", backgroundSize: "contain", backgroundRepeat: "no-repeat" }} src='./background.jpg'alt="Card img" />
+        <img style={{ height: "428px", width: "20%", position: "absolute", backgroundSize: "contain", backgroundRepeat: "no-repeat" }} src='./background.png'alt="Card img" />
       </div>
     </div>
   );
